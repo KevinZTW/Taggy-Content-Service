@@ -1,0 +1,9 @@
+*
+!/**/
+!*.*
+*.yaml
+*.env
+*.idea
+*.json
+.DS_Store
+
